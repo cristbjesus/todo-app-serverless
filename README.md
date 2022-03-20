@@ -19,7 +19,7 @@ The application store TODO items, and each TODO item contains the following fiel
 
 You might also store an id of a user who created a TODO item.
 
-# Functions to be implemented
+# Functions
 
 Implemented and configured functions in the `serverless.yml` file:
 
